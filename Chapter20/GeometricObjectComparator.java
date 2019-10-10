@@ -1,3 +1,4 @@
+//GeometricObjectComparator.java: This class extends GeometricObjectComparator
 
 import java.util.Comparator;
 
