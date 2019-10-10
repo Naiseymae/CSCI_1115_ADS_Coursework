@@ -1,4 +1,3 @@
-package exercise_20_21;
 
 public class Rectangle extends GeometricObject {
 	private double width;
