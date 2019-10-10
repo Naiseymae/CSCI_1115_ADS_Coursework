@@ -1,4 +1,3 @@
-package exercise_20_21;
 
 //GeometricObject.java: The abstract GeometricObject class
 
