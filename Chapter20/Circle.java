@@ -1,4 +1,3 @@
-package exercise_20_21;
 
 //Circle.java: The circle class that extends GeometricObject
 
