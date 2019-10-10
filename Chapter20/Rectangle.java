@@ -1,3 +1,4 @@
+//Rectangle.java: The rectangle class that extends GeometricObject
 
 public class Rectangle extends GeometricObject {
 	private double width;
