@@ -1,4 +1,3 @@
-package exercise_22_1;
 
 /* Author: Renee Linford
  * Date: 10-14-19
@@ -39,6 +38,5 @@ public class Exercise22_3 {
 		// Print if match is true or false.
 		System.out.print("Match: " + match);
 		if (match) System.out.print(" at index " + index);
-
 	}
 }
