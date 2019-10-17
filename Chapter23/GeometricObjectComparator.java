@@ -1,4 +1,5 @@
-package exercise_23_3;
+
+/** GeometricObjectComparator class that implements comparator. */
 
 import java.util.Comparator;
 
