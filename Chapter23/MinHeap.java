@@ -1,8 +1,7 @@
-package exercise_23_7;
 
 /* Author: Renee Linford
  * Date: 10-16-19
- * ADS Exercise 23-7: Min-Heap.
+ * ADS Exercise 23-7: Min-Heap. Take Heap class and rewrite to make root minimum value.
  */
 
 import java.util.ArrayList;
@@ -52,7 +51,9 @@ public class MinHeap <E extends Comparable<E>> {
 		list.remove(list.size() - 1);
 
 		int currentIndex = 0;
+		
 		while (currentIndex < list.size()) {
+			
 			int leftChildIndex = 2 * currentIndex + 1;
 			int rightChildIndex = 2 * currentIndex + 2;
 
@@ -67,7 +68,6 @@ public class MinHeap <E extends Comparable<E>> {
 					minIndex = rightChildIndex;
 				}
 			}
-
 			// Swap if the current node is less than the maximum
 			if (list.get(currentIndex).compareTo(
 					list.get(minIndex)) > 0) {
@@ -79,7 +79,6 @@ public class MinHeap <E extends Comparable<E>> {
 			else
 				break; // The tree is a heap
 		}
-
 		return removedObject;
 	}
 
