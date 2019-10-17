@@ -1,9 +1,7 @@
-package exercise_23_7;
-
+/** Heap sort method for min value */
+	
 public class HeapSort {
-	
-	/** Heap sort method for min value */
-	
+
 	public static <E extends Comparable<E>> void heapSort(E[] list) {
 		// Create a Heap of integers
 		MinHeap<E> heap = new MinHeap<>();
