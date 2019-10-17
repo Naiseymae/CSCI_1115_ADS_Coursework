@@ -1,4 +1,3 @@
-package exercise_23_3;
 
 // GeometricObject.java: The abstract GeometricObject class
 
