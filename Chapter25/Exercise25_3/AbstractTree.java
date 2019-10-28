@@ -1,4 +1,3 @@
-package exercise_25_3;
 
 /* ADS Exercise 25-3: Implement inorder traversal of BST without using recursion. */
 
