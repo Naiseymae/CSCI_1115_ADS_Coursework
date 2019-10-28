@@ -1,4 +1,3 @@
-package exercise_24_5;
 
 // ADS Exercise 24-5: Implement GenericQueue using composition
 
