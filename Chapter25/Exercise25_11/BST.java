@@ -1,4 +1,3 @@
-package exercise_25_11;
 
 /* ADS Exercise 25-11: Display binary tree horizontally. */
 
