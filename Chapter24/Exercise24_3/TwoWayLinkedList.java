@@ -1,4 +1,3 @@
-package exercise_24_3;
 
 /* ADS Exercise 24-3: Implement a doubly linked list. */
 
