@@ -1,4 +1,3 @@
-package exercise_24_1;
 
 /* ADS Exercise 24-1:  MyList class extends iterable */
 
