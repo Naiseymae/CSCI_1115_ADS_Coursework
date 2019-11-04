@@ -1,4 +1,3 @@
-package exercise_27_3;
 
 // ADS Exercise 27-3: Implement MyMap using open addressing with double hashing.
 
