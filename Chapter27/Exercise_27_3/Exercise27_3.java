@@ -1,4 +1,3 @@
-package exercise_27_3;
 
 /* Author: Renee Linford
  * Date: 10-29-19
