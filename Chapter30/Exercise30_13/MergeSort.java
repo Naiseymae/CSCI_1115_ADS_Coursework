@@ -1,4 +1,3 @@
-package exercise_30_13;
 
 // ADS Exercise 30-13: Generic parallel merge sort
 
