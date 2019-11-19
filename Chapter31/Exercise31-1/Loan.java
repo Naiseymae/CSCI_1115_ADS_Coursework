@@ -1,4 +1,3 @@
-package exercise_31_1;
 
 // ADS Exercise 31-1: Loan Server
 // Loan class Implements Seriablizable to support object IO  
