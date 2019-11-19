@@ -1,4 +1,3 @@
-//package exercise_31_9;
 
 /* Author: Renee Linford
  * Date: 11-19-19
@@ -16,7 +15,8 @@ import javafx.scene.control.TextArea;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-import javafx.scene.input.KeyCode;import java.net.*;
+import javafx.scene.input.KeyCode;
+import java.net.*;
 import java.io.*;
 import java.util.*;
 
