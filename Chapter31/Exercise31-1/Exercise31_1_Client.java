@@ -1,4 +1,3 @@
-package exercise_31_1;
 
 // ADS Exercise 31-1: Loan Server
 // Client.java: The client sends the input to the server and receives
@@ -9,7 +8,8 @@ import javafx.geometry.Pos;
 import javafx.scene.*;
 import javafx.scene.control.*;
 import javafx.scene.layout.*;
-import javafx.stage.Stage;import java.beans.*;
+import javafx.stage.Stage;
+import java.beans.*;
 import java.io.*;
 import java.net.*;
 import javafx.event.ActionEvent;
